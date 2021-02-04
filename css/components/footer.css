@@ -1,0 +1,28 @@
+.footer-container {
+  background-color: grey;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+}
+
+.socials li {
+  list-style: none;
+  padding: 0 20px;
+}
+
+.socials ul {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  padding: 0;
+}
+
+.socials p {
+  font-weight: lighter;
+  color: white
+  ;
+}
+
+.socials {
+  margin: 0 auto;
+}
